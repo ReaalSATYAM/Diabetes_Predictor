@@ -11,6 +11,7 @@ This project involves building an AI model to predict diabetes based on input fe
 
 - **Left**: Model Accuracy per Epoch
 - **Right**: Model Loss per Epoch
+- **Accuracy**: 99.80%
 
 ### ROC Curve
 
